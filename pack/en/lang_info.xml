@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<fsb>
+	<packs>
+		<langs>
+			<lang>
+				<name>en</name>
+				<authors>
+					<author>FSB team</author>
+					<website>http://www.fire-soft-board.com/</website>
+				</authors>
+				<themes>
+					<theme>
+						<name>WhiteSummer</name>
+					</theme>
+				</themes>
+			</lang>
+		</langs>
+	</packs>
+</fsb>
