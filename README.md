@@ -1,5 +1,2 @@
-Pack of langue for FSB2
-=======================
-
-Explain pack structure
-...
+FSB2 language packs
+===================
